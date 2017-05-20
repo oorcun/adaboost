@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1406717873 source:e:\c++\benim yaptýðým\adaboost\main.cpp
+	"all.h"
+
+1405884554 e:\c++\benim yaptýðým\adaboost\all.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"constant.h"
+	"cursor.h"
+	"misc.h"
+	"graphics.h"
+	"console.h"
+	"text.h"
+	"file.h"
+	"algrithm.h"
+
+1406913411 e:\c++\benim yaptýðým\adaboost\constant.h
+
+1404743761 e:\c++\benim yaptýðým\adaboost\cursor.h
+
+1404030606 e:\c++\benim yaptýðým\adaboost\misc.h
+
+1406716110 e:\c++\benim yaptýðým\adaboost\graphics.h
+
+1403767454 e:\c++\benim yaptýðým\adaboost\console.h
+
+1403855036 e:\c++\benim yaptýðým\adaboost\text.h
+
+1405793939 e:\c++\benim yaptýðým\adaboost\file.h
+
+1406978126 e:\c++\benim yaptýðým\adaboost\algrithm.h
+
